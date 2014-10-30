@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 23e39c8242dd88e4f81933e56eae6d5a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bone_clavicle_geom
+    100002: bone_humerus_geom
+    100004: bone_index_geom
+    100006: bone_middle_geom
+    100008: bone_pinky_geom
+    100010: bone_radius_geom
+    100012: bone_ring_geom
+    100014: bone_scapula_geom
+    100016: bone_tarsals_geom
+    100018: bone_thumb_geom
+    100020: bone_ulna_geom
+    100022: clavicle_jnt
+    100024: elbow_jnt
+    100026: hand_jnt
+    100028: jntInflu_forearmtwist_01
+    100030: jntInflu_forearmtwist_02
+    100032: jntInflu_forearmtwist_03
+    100034: jntInflu_forearmtwist_04
+    100036: muscle_biceps_brachii_geom
+    100038: muscle_deltoid_geom
+    100040: muscle_pronator_teres_geom
+    100042: muscle_triceps_brachii_geom
+    100044: shoulder_jnt
+    100046: //RootNode
+    100048: wrist_jnt
+    400000: bone_clavicle_geom
+    400002: bone_humerus_geom
+    400004: bone_index_geom
+    400006: bone_middle_geom
+    400008: bone_pinky_geom
+    400010: bone_radius_geom
+    400012: bone_ring_geom
+    400014: bone_scapula_geom
+    400016: bone_tarsals_geom
+    400018: bone_thumb_geom
+    400020: bone_ulna_geom
+    400022: clavicle_jnt
+    400024: elbow_jnt
+    400026: hand_jnt
+    400028: jntInflu_forearmtwist_01
+    400030: jntInflu_forearmtwist_02
+    400032: jntInflu_forearmtwist_03
+    400034: jntInflu_forearmtwist_04
+    400036: muscle_biceps_brachii_geom
+    400038: muscle_deltoid_geom
+    400040: muscle_pronator_teres_geom
+    400042: muscle_triceps_brachii_geom
+    400044: shoulder_jnt
+    400046: //RootNode
+    400048: wrist_jnt
+    4300000: muscle_deltoid_geom
+    4300002: muscle_pronator_teres_geom
+    4300004: muscle_biceps_brachii_geom
+    4300006: muscle_triceps_brachii_geom
+    4300008: bone_pinky_geom
+    4300010: bone_ring_geom
+    4300012: bone_middle_geom
+    4300014: bone_index_geom
+    4300016: bone_thumb_geom
+    4300018: bone_tarsals_geom
+    4300020: bone_ulna_geom
+    4300022: bone_radius_geom
+    4300024: bone_humerus_geom
+    4300026: bone_clavicle_geom
+    4300028: bone_scapula_geom
+    9500000: //RootNode
+    13700000: bone_clavicle_geom
+    13700002: bone_humerus_geom
+    13700004: bone_index_geom
+    13700006: bone_middle_geom
+    13700008: bone_pinky_geom
+    13700010: bone_radius_geom
+    13700012: bone_ring_geom
+    13700014: bone_scapula_geom
+    13700016: bone_tarsals_geom
+    13700018: bone_thumb_geom
+    13700020: bone_ulna_geom
+    13700022: muscle_biceps_brachii_geom
+    13700024: muscle_deltoid_geom
+    13700026: muscle_pronator_teres_geom
+    13700028: muscle_triceps_brachii_geom
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
