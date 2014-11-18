@@ -9,6 +9,6 @@ public class ARRigController : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		rigTarget.position = transform.position;
-		rigTarget.rotation = transform.rotation;
+		//rigTarget.rotation = transform.rotation;
 	}
 }

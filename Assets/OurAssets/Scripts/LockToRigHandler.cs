@@ -10,7 +10,7 @@ public class LockToRigHandler : MonoBehaviour {
 #if UNITY_EDITOR
 	void Update () {
 		transform.position = rigTarget.position;
-		transform.rotation = rigTarget.rotation;
+		//transform.rotation = rigTarget.rotation;
 	}
 #endif
 }
