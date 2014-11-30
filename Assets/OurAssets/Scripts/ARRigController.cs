@@ -18,7 +18,9 @@ public class ARRigController : MonoBehaviour {
 		if(setPos)
 			rigTarget.position = transform.position;
 		if(setRot) {
-			rigTarget.localRotation = transform.localRotation;
+			//rigTarget.localRotation = transform.localRotation;
+			//rigTarget.localRotation = transform.rotation;
+			rigTarget.rotation = transform.rotation;
 		}
 	}
 }
