@@ -6,14 +6,19 @@ public class ARRigController : MonoBehaviour {
 	public bool setPos = false;
 	public bool setRot = false;
 
+	Quaternion prevRot;
+
 
 	public Transform rigTarget;
-	
+	void Start() {
+		prevRot = transform.rotation;
+	}
 	// Update is called once per frame
 	void Update () {
 		if(setPos)
 			rigTarget.position = transform.position;
-		if(setRot)
-			rigTarget.rotation = transform.rotation;
+		if(setRot) {
+			rigTarget.localRotation = transform.localRotation;
+		}
 	}
 }
