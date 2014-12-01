@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="LogoTag2" size="1.000000 0.600000" />
+    <ImageTarget name="Notag1" size="1.000000 0.979522" />
+    <ImageTarget name="Notag2" size="1.000000 0.643333" />
+    <ImageTarget name="Notag3" size="1.000000 1.136364" />
+  </Tracking>
+</QCARConfig>
