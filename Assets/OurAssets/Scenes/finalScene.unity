@@ -716,8 +716,8 @@ GUITexture:
     serializedVersion: 2
     x: -64
     y: -29
-    width: 256
-    height: 256
+    width: 512
+    height: 512
   m_LeftBorder: 0
   m_RightBorder: 0
   m_TopBorder: 0
@@ -729,7 +729,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 260092405}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .0322766304, y: .5, z: 0}
+  m_LocalPosition: {x: 0, y: .270000011, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2464,8 +2464,8 @@ GUITexture:
     serializedVersion: 2
     x: -64
     y: -29
-    width: 256
-    height: 256
+    width: 512
+    height: 512
   m_LeftBorder: 0
   m_RightBorder: 0
   m_TopBorder: 0
@@ -2477,7 +2477,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 686047881}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .0322766304, y: .5, z: 0}
+  m_LocalPosition: {x: 0, y: .270000011, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2643,8 +2643,8 @@ GUITexture:
     serializedVersion: 2
     x: -64
     y: -29
-    width: 256
-    height: 256
+    width: 512
+    height: 512
   m_LeftBorder: 0
   m_RightBorder: 0
   m_TopBorder: 0
@@ -2656,7 +2656,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 738452352}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .0322766304, y: .5, z: 0}
+  m_LocalPosition: {x: 0, y: .270000011, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2755,8 +2755,8 @@ GUITexture:
     serializedVersion: 2
     x: -64
     y: -29
-    width: 256
-    height: 256
+    width: 512
+    height: 512
   m_LeftBorder: 0
   m_RightBorder: 0
   m_TopBorder: 0
@@ -2768,7 +2768,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 761135833}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .0322766304, y: .5, z: 0}
+  m_LocalPosition: {x: 0, y: .270000011, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -4262,8 +4262,8 @@ GUITexture:
     serializedVersion: 2
     x: -64
     y: -29
-    width: 256
-    height: 256
+    width: 512
+    height: 512
   m_LeftBorder: 0
   m_RightBorder: 0
   m_TopBorder: 0
@@ -4275,7 +4275,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1128426945}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .0322766304, y: .5, z: 0}
+  m_LocalPosition: {x: 0, y: .270000011, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -4653,8 +4653,8 @@ GUITexture:
     serializedVersion: 2
     x: -64
     y: -29
-    width: 256
-    height: 256
+    width: 512
+    height: 512
   m_LeftBorder: 0
   m_RightBorder: 0
   m_TopBorder: 0
@@ -4666,7 +4666,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1180514139}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .0322766304, y: .5, z: 0}
+  m_LocalPosition: {x: 0, y: .270000011, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -6897,8 +6897,8 @@ GUITexture:
     serializedVersion: 2
     x: -64
     y: -29
-    width: 256
-    height: 256
+    width: 512
+    height: 512
   m_LeftBorder: 0
   m_RightBorder: 0
   m_TopBorder: 0
@@ -6910,7 +6910,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1957074706}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .0322766304, y: .5, z: 0}
+  m_LocalPosition: {x: 0, y: .270000011, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -7009,8 +7009,8 @@ GUITexture:
     serializedVersion: 2
     x: -64
     y: -29
-    width: 256
-    height: 256
+    width: 512
+    height: 512
   m_LeftBorder: 0
   m_RightBorder: 0
   m_TopBorder: 0
@@ -7022,7 +7022,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2023228478}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .0322766304, y: .5, z: 0}
+  m_LocalPosition: {x: 0, y: .270000011, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -7447,8 +7447,8 @@ GUITexture:
     serializedVersion: 2
     x: -64
     y: -29
-    width: 256
-    height: 256
+    width: 512
+    height: 512
   m_LeftBorder: 0
   m_RightBorder: 0
   m_TopBorder: 0
@@ -7460,7 +7460,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2099522469}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .0322766304, y: .5, z: 0}
+  m_LocalPosition: {x: 0, y: .270000011, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -7559,8 +7559,8 @@ GUITexture:
     serializedVersion: 2
     x: -64
     y: -29
-    width: 256
-    height: 256
+    width: 512
+    height: 512
   m_LeftBorder: 0
   m_RightBorder: 0
   m_TopBorder: 0
@@ -7572,7 +7572,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2119983706}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .0322766304, y: .5, z: 0}
+  m_LocalPosition: {x: 0, y: .270000011, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
