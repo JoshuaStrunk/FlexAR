@@ -1,11 +1,11 @@
 ﻿#pragma strict
-var target : Material;
-var swapValue : Color = Color.white;
+var target : GameObject;
+var swapValue : Material;
 
 function OnMouseDown () {
 
-	var tempC : Color = target.color;
+	var tempC : Material = target.renderer.material;
 		
-   target.color = swapValue;
+   target.renderer.material = swapValue;
 	swapValue = tempC;
 }
