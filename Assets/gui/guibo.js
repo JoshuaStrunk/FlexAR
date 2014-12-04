@@ -7,6 +7,6 @@ shower.enabled=false;
 }
 
 function OnMouseDown () {
-shower.enabled = true ; 
+shower.enabled = !shower.enabled ; 
 
 }
